@@ -11,3 +11,4 @@ dependencies:
   - pip:
     - matplotlib==3.5.1
     - plotly==5.5.0
+    - xgboost==1.5.2
